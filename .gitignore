@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# C++ compiled files
+binary_search
+
+# Java compiled files
+*.class
